@@ -1,5 +1,8 @@
 # Bellabeat Tableau Dashboard
 
+## 📊 Dashboard Preview
+
+![Dashboard](Dashboard.png)
 ## 📊 Project Overview
 This project analyzes Bellabeat fitness tracker data to uncover user activity trends and provide business insights for decision-making.
 
