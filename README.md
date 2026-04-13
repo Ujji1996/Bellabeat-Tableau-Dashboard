@@ -22,3 +22,15 @@ This project analyzes Bellabeat fitness tracker data to uncover user activity tr
 
 ## 🚀 Outcome
 This dashboard helps stakeholders understand user behavior and make data-driven decisions.
+
+## 💻 SQL Analysis
+
+This project includes SQL queries used for data cleaning, transformation, and analysis.
+
+Key techniques:
+- Aggregations and averages
+- User segmentation using CASE statements
+- Data cleaning (date parsing)
+- Multi-table joins using CTEs
+
+📁 View queries: sql_queries.sql
