@@ -2,7 +2,7 @@
 
 ## 📊 Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](Dashboard-preview.png)
 ## 📊 Project Overview
 This project analyzes Bellabeat fitness tracker data to uncover user activity trends and provide business insights for decision-making.
 
