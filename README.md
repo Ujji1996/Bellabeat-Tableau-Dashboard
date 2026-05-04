@@ -1,5 +1,6 @@
 # 📊 Bellabeat User Behavior Analysis (SQL + Tableau)
 
+📌 Case Study Project based on real-world fitness data analysis.
 📊 End-to-end data analysis project using SQL and Tableau to uncover user behavior insights.
 
 ## 📌 Problem Statement
