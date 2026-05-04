@@ -1,4 +1,6 @@
-# 📊 Bellabeat Data Analysis Dashboard
+# 📊 Bellabeat User Behavior Analysis (SQL + Tableau)
+
+📊 End-to-end data analysis project using SQL and Tableau to uncover user behavior insights.
 
 ## 📌 Problem Statement
 Bellabeat, a fitness-focused company, wants to understand user activity patterns to improve customer engagement and marketing strategy.
@@ -17,10 +19,9 @@ Bellabeat fitness dataset including daily activity, sleep, and intensity metrics
 ---
 
 ## 📊 Key Insights
-- User activity is higher during weekdays, especially mid-week.
-- Many users have low daily step counts, indicating potential engagement gaps.
-- Sleep patterns vary significantly, suggesting opportunities for wellness recommendations.
-
+- User activity peaks during mid-week, indicating higher engagement on weekdays.
+- A large segment of users shows low daily step counts, highlighting opportunities for targeted engagement.
+- Sleep patterns are inconsistent across users, suggesting potential for personalized wellness features.
 ---
 
 ## 📷 Dashboard Preview
