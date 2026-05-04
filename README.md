@@ -1,36 +1,40 @@
-# Bellabeat Tableau Dashboard
+# 📊 Bellabeat Data Analysis Dashboard
 
-## 📊 Dashboard Preview
+## 📌 Problem Statement
+Bellabeat, a fitness-focused company, wants to understand user activity patterns to improve customer engagement and marketing strategy.
 
-![Dashboard](Dashboard-preview.png)
-## 📊 Project Overview
-This project analyzes Bellabeat fitness tracker data to uncover user activity trends and provide business insights for decision-making.
+---
+
+## 📁 Dataset
+Bellabeat fitness dataset including daily activity, sleep, and intensity metrics.
+
+---
 
 ## 🛠 Tools Used
-- Tableau
-- SQL
-- Excel
+- SQL (Data cleaning, joins, aggregations, CTEs)
+- Tableau (Dashboard creation & visualization)
 
-## 🔍 Key Insights
-- Daily activity and calorie trends
-- Sleep vs activity relationship
-- User engagement patterns
+---
 
-## 📁 Files
-- Bellabeat Case Study - SQL Analysis.twbx (Dashboard)
-- Bellabeat Case Study - Report.pdf
+## 📊 Key Insights
+- User activity is higher during weekdays, especially mid-week.
+- Many users have low daily step counts, indicating potential engagement gaps.
+- Sleep patterns vary significantly, suggesting opportunities for wellness recommendations.
 
-## 🚀 Outcome
-This dashboard helps stakeholders understand user behavior and make data-driven decisions.
+---
 
-## 💻 SQL Analysis
+## 📷 Dashboard Preview
+![Dashboard](Dashboard-preview.png)
 
-This project includes SQL queries used for data cleaning, transformation, and analysis.
+---
 
-Key techniques:
-- Aggregations and averages
-- User segmentation using CASE statements
-- Data cleaning (date parsing)
-- Multi-table joins using CTEs
+## 🚀 Business Impact
+The analysis provides actionable insights that can help Bellabeat:
+- Improve user engagement through targeted recommendations  
+- Optimize marketing campaigns  
+- Enhance product features based on user behavior  
 
-📁 View queries: sql_queries.sql
+---
+
+## 📌 Conclusion
+This project demonstrates how data analysis and visualization can be used to extract meaningful insights and support business decision-making.
